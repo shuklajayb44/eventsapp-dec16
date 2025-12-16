@@ -1,2 +1,2 @@
-# eventsapp-dec16
-AwsTrainingDec2025
+# eventsappstart
+This is a simple events app
